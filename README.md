@@ -52,9 +52,9 @@ https://github.com/joaomatosf/jexboss
 
 RouterSploit - O Quadro RouterSploit é uma estrutura de exploração de fonte aberta dedicada a 
 devices.It incorporado consiste em vários módulos que auxilia as operações de teste de penetração:
-# exploits - módulos que se aproveitam de vulnerabilidades identificadas
-# Creds - módulos projetados para testar as credenciais contra serviços de rede
-# scanners - módulos que verificam se o alvo é vulnerável a qualquer explorar
+#exploits - módulos que se aproveitam de vulnerabilidades identificadas
+#Creds - módulos projetados para testar as credenciais contra serviços de rede
+#scanners - módulos que verificam se o alvo é vulnerável a qualquer explorar
 Autor: Marcin Bury (lucyoa) & Mariusz Kupidura (fwkz) 
 Licença: BSD
 https://github.com/reverse-shell/routersploit
@@ -97,9 +97,9 @@ Licença: GPLv3
 http://www.dumpzilla.org/
 
 Loki - Scanner de indicadores simples de compromisso. A detecção é baseada em quatro métodos de detecção:
-# Nome do arquivo do COI: - Jogo de Regex em arquivo completo caminho / nome
-# Yara Rule Check: - Jogo de assinatura Yara em dados de arquivo e memória do processo
-# verificação de hash: - Compara conhecidos hashes maliciosos (MD5, SHA1, SHA256) com arquivos digitalizados
+#Nome do arquivo do COI: - Jogo de Regex em arquivo completo caminho / nome
+#Yara Rule Check: - Jogo de assinatura Yara em dados de arquivo e memória do processo
+#verificação de hash: - Compara conhecidos hashes maliciosos (MD5, SHA1, SHA256) com arquivos digitalizados
 Autor: Florian Roth 
 Licença: GPLv3
 https://github.com/Neo23x0/Loki
@@ -179,7 +179,7 @@ https://github.com/sysinsider/usbtracker
 
 NetworkMiner - NetworkMiner é uma ferramenta de análise forense Network (NFAT) para Windows 
 (mas também funciona em Linux / Mac OS X / FreeBSD ). 
-# NetworkMiner pode ser usado como uma ferramenta passiva captura rede sniffer
+#NetworkMiner pode ser usado como uma ferramenta passiva captura rede sniffer
 http://www.netresec.com/?page=NetworkMiner
 
 
@@ -208,11 +208,11 @@ https://github.com/golismero/golismero
 
 Instarecon de reconhecimento digital básica -Automated. Grande para obter uma pegada inicial de suas 
 metas e descobrir subdomínios adicionais. InstaRecon vai fazer:
-# DNS (direta, PTR, MX, NS) pesquisas
-# Whois (domínios e IP) pesquisas
-# dorks do Google em busca de subdomínios
-# pesquisas de shodan
-# pesquisas de DNS inversa em CIDRs inteiras
+#DNS (direta, PTR, MX, NS) pesquisas
+#Whois (domínios e IP) pesquisas
+#dorks do Google em busca de subdomínios
+#pesquisas de shodan
+#pesquisas de DNS inversa em CIDRs inteiras
 Autor: Luis Teixeira 
 Licença: MIT License
 https://github.com/vergl4s/instarecon
@@ -426,10 +426,10 @@ O site mostra o seu endereço IP externo e tem a capacidade de identificar porta
 http://www.yougetsignal.com/
 
 Netcraft - Netcraft prestar serviços de segurança da Internet, incluindo 
-# anti-fraude e serviços 
-# anti-phishing , 
-# testes de aplicativos  
-# digitalização PCI 
+#anti-fraude e serviços 
+#anti-phishing , 
+#testes de aplicativos  
+#digitalização PCI 
 https://www.netcraft.com/
 
 Dnsstuff -A economia de tempo sozinho para fazer esta uma adição altamente valiosa para o seu 
@@ -685,17 +685,17 @@ https://github.com/infobyte/evilgrade
 Intercepter-NG - Intercepter-NG é um conjunto de ferramentas de rede multifuncional para vários tipos de 
 TI specialists.The principal objetivo é recuperar interessantes dados do fluxo de rede e executar diferentes 
 tipos de ataques MITM.
-# senhas sniffing \ hashes dos tipos: ICQ \ IRC \ AIM \ FTP \ IMAP \ POP3 \ SMTP \ LDAP \ BNC \ MEIAS \ 
+#senhas sniffing \ hashes dos tipos: ICQ \ IRC \ AIM \ FTP \ IMAP \ POP3 \ SMTP \ LDAP \ BNC \ MEIAS \ 
 HTTP \ WWW \ NNTP \ CVS \ TELNET \ ARM \ DC ++ \ VNC \ MYSQL \ ORACLE \ NTLM \ krb5 \ RADIUS
-# Sniffing mensagens de chat de: ICQ \ AIM \ JABBER \ YAHOO \ MSN \ IRC \ MRA
-# -Modo promíscuo \ ARP \ DHCP \ gateway \ Porto \ Smart Scanning
-# Captura de pacotes e pós-captura (offline) que analisam o modo \ RAW
-# captura de tráfego remoto via daemon RPCAP e PCAP Over IP
-# NAT \ MEIAS \ DHCP
-# ARP \ DNS sobre ICMP \ DHCP \ SSL \ sslstrip \ WPAD \ SMB Relé \ SSH MITM SMB Hijack, LDAP Relay, 
+#Sniffing mensagens de chat de: ICQ \ AIM \ JABBER \ YAHOO \ MSN \ IRC \ MRA
+#-Modo promíscuo \ ARP \ DHCP \ gateway \ Porto \ Smart Scanning
+#Captura de pacotes e pós-captura (offline) que analisam o modo \ RAW
+#captura de tráfego remoto via daemon RPCAP e PCAP Over IP
+#NAT \ MEIAS \ DHCP
+#ARP \ DNS sobre ICMP \ DHCP \ SSL \ sslstrip \ WPAD \ SMB Relé \ SSH MITM SMB Hijack, LDAP Relay, 
 MySQL cargas da injecção DADOS
-# ARP Watch, ARP Cage, Injection HTTP, heartbleed explorar, Kerberos Downgrade, Cookie assassino
-# DNS \ NBNS \ LLMNR Spoofing 
+#ARP Watch, ARP Cage, Injection HTTP, heartbleed explorar, Kerberos Downgrade, Cookie assassino
+#DNS \ NBNS \ LLMNR Spoofing 
 Autor: Intercepter-NG
 http://sniff.su/about.html
 
@@ -718,7 +718,7 @@ https://www.wireshark.org/docs/man-pages/tshark.html
 
 NetworkMiner - NetworkMiner é uma ferramenta de análise forense Network (NFAT) para Windows 
 (mas também funciona em Linux / Mac OS X / FreeBSD ). 
-# NetworkMiner pode ser usado como uma ferramenta passiva captura rede sniffer
+#NetworkMiner pode ser usado como uma ferramenta passiva captura rede sniffer
 http://www.netresec.com/?page=NetworkMiner
 
                                              ## Stress Testing
@@ -940,12 +940,12 @@ https://github.com/zaproxy/zaproxy
                                              ## Scanners de vulnerabilidade
 
 GFI - GFI LANguard age como uma oferta de consultor de segurança virtual:
-# Patch-gestão
-# Patch Management para Windows®, Mac OS® e Linux®
-# Avaliação de vulnerabilidade
-# varredura de vulnerabilidades para computadores e dispositivos móveis
-# auditoria de rede
-# auditoria de rede e software  
+#Patch-gestão
+#Patch Management para Windows®, Mac OS® e Linux®
+#Avaliação de vulnerabilidade
+#varredura de vulnerabilidades para computadores e dispositivos móveis
+#auditoria de rede
+#auditoria de rede e software  
 http://www.gfi.com/languard/
 
 MBSA - Microsoft Baseline Security Analyzer (MBSA) permite que os administradores examinem os sistemas 
@@ -1008,9 +1008,9 @@ https://github.com/Dionach/CMSmap
 
 droopescan Um scanner baseada em plug-in que auxilia pesquisadores de segurança na identificação de 
 problemas com vários CMS -:
-# Drupal.
-# SilverStripe
-# Wordpress
+#Drupal.
+#SilverStripe
+#Wordpress
 Autor: Pedro Worcel 
 Licença: GNU Affero General LICENÇA PÚBLICA
 https://github.com/droope/droopescan
@@ -1173,9 +1173,9 @@ http://www.zabbix.com/
                                             ## Dashboards 
 
 Babel Enterprise é um projeto open source que fornece um painel com as seguintes propriedades:
-# mede o risco 
-# grau de cumprimento
-# gere os activos
+#mede o risco 
+#grau de cumprimento
+#gere os activos
 http://babel.sourceforge.net/es/index.php				
 
                                              ## Aplicacões para clone de página web
@@ -1194,7 +1194,7 @@ XARP - http://www.xarp.net/
                                              ## Metadatos
 											 
 Exiftool - Ler, Escrever e Editar Meta informação!
-# O executável do Windows stand-alone não requer Perl. Basta baixar arquivo
+#O executável do Windows stand-alone não requer Perl. Basta baixar arquivo
 http://www.sno.phy.queensu.ca/~phil/exiftool/
 
                                              ## Criptografía
